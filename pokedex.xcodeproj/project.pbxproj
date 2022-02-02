@@ -16,6 +16,7 @@
 		04097A2F27AAB0DA007085D7 /* pokedexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04097A2E27AAB0DA007085D7 /* pokedexTests.swift */; };
 		04097A3927AAB0DA007085D7 /* pokedexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04097A3827AAB0DA007085D7 /* pokedexUITests.swift */; };
 		04097A3B27AAB0DA007085D7 /* pokedexUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04097A3A27AAB0DA007085D7 /* pokedexUITestsLaunchTests.swift */; };
+		04097A4827AB2749007085D7 /* csv in Resources */ = {isa = PBXBuildFile; fileRef = 04097A4727AB2749007085D7 /* csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		04097A3427AAB0DA007085D7 /* pokedexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pokedexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04097A3827AAB0DA007085D7 /* pokedexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pokedexUITests.swift; sourceTree = "<group>"; };
 		04097A3A27AAB0DA007085D7 /* pokedexUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pokedexUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		04097A4727AB2749007085D7 /* csv */ = {isa = PBXFileReference; lastKnownFileType = folder; path = csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				04097A1B27AAB0D6007085D7 /* ViewController.swift */,
 				04097A1D27AAB0D6007085D7 /* Main.storyboard */,
 				04097A2027AAB0D9007085D7 /* Assets.xcassets */,
+				04097A4727AB2749007085D7 /* csv */,
 				04097A2227AAB0D9007085D7 /* LaunchScreen.storyboard */,
 				04097A2527AAB0D9007085D7 /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 				04097A2427AAB0D9007085D7 /* LaunchScreen.storyboard in Resources */,
 				04097A2127AAB0D9007085D7 /* Assets.xcassets in Resources */,
 				04097A1F27AAB0D6007085D7 /* Main.storyboard in Resources */,
+				04097A4827AB2749007085D7 /* csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
